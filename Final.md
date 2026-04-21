@@ -1,4 +1,6 @@
 ## Do automated red light cameras actually prevent crashes in D.C.?
+<img width="500" height="500" alt="Screenshot 2026-04-21 at 1 44 06 PM" src="https://github.com/user-attachments/assets/bbeda53f-bb71-4060-8724-4bbfe5ee4e20" />
+
 ### Data from 16 intersections across the District reveals an interesting trend
 
 In the winter of 2024, an automated red light camera was installed at the intersection of Alabama Ave SE and Stanton Road. Since then, crashes at the intersection have plummeted over 40%, and this isn’t the only example. 
