@@ -24,9 +24,7 @@ A similar pattern emerged at Georgia Avenue NW and Missouri Avenue NW. That inte
 
 Those intersections do not prove that the cameras had no effect. But they do undercut the city’s broader case that automated enforcement, by itself, leads to safer intersections. At both locations, crashes continued to climb even after cameras were put in place, suggesting the devices were not enough to reverse the trajectory.
 
-That points to a larger problem in measuring the program’s impact. Cameras may influence driver behavior, but they cannot redesign an intersection, reduce turning conflicts or fix traffic patterns that were already producing more collisions. At some of the city’s most troubled intersections, the data show those larger problems may have mattered more than the cameras.
-
-For a program sold as a safety measure, these examples matter. If cameras are meant to reduce crashes, the strongest evidence would be a clear drop at the places that need them most. Instead, at two of the most dangerous intersections in the dataset, crashes kept rising.
+That points to a larger problem in measuring the program’s impact. Cameras may influence driver behavior, but they cannot redesign an intersection, reduce turning conflicts or fix traffic patterns that were already producing more collisions. If cameras are meant to reduce crashes, the strongest evidence would be a clear drop at the places that need them most. Instead, at two of the most dangerous intersections in the dataset, crashes kept rising.
 
 ### Automated traffic enforcement has become one of the District’s most visible and contested safety tools.
 
