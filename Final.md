@@ -51,3 +51,5 @@ According to the D.C. attorney general’s [office](https://oag.dc.gov/release/a
 
 With fines from automated cameras continuing to climb and lawmakers openly challenging whether the system improves safety, the future of traffic enforcement in Washington looks less certain than it has in years. For now, though, the cameras remain a central part of the District’s approach to dangerous driving. They continue to issue millions of dollars in tickets to residents and commuters, serve as a major source of city revenue and sit at the center of a political fight over whether they are making Washington’s streets safer or simply making driving in the city more expensive.
 
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1IZrQVGpsLtQfLlaezZ5hVQ9SXhwcGtUWUso87hh4jFc/edit?usp=sharing)
+Slides
