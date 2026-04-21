@@ -34,9 +34,7 @@ Supporters say the cameras deter speeding and red-light running, while also rais
 
 Speed cameras are the most mobile devices in the city’s camera network and can be rotated to new locations as safety priorities change. Red-light cameras, by contrast, are more constrained by installation requirements and tend to remain fixed at intersections. Both are a part of the same multi-million dollar revenue generator that has become increasingly controversial.
 
-The Washington Post [reported](https://www.washingtonpost.com/dc-md-va/2026/03/28/speed-cameras-dc-scofflaws/) that D.C. issued about 3.3 million camera tickets in 2025. Making the city more than $257 million in speeding tickets alone. The Post also reported that starting in 2023, the city has issued more than $150 million in speeding tickets each year, with 2025 producing the highest total of the post-pandemic period.
-
-The Congressional Budget [Office](https://www.cbo.gov/publication/62346) gave similar figures, saying the system as a whole generates about $300 million a year. That has made the camera program relevant as both a traffic-safety tool and a major source of city revenue, which is one reason the political fight over the cameras has grown so intense.
+The Washington Post [reported](https://www.washingtonpost.com/dc-md-va/2026/03/28/speed-cameras-dc-scofflaws/) that D.C. issued about 3.3 million camera tickets in 2025. Making the city more than $257 million in speeding tickets alone. The Post also reported that starting in 2023, the city has issued more than $150 million in speeding tickets each year, with 2025 producing the highest total of the post-pandemic period. The Congressional Budget [Office](https://www.cbo.gov/publication/62346) gave similar figures, saying the system as a whole generates about $300 million a year. 
 
 ### In recent months, automated speed cameras in the District have been fighting for their survival.
 
@@ -49,7 +47,9 @@ The fight also comes as the District tries to answer one of the most persistent 
 
 According to the D.C. attorney general’s [office](https://oag.dc.gov/release/attorney-general-schwalb-sues-three-maryland), the first lawsuits filed under the STEER Act targeted three Maryland drivers accused of owing the city more than $90,000 in unpaid speeding, red-light, and other dangerous-driving fines. The act hopes to help alleviate out-of-town fair dodgers, making it easier for the city to file lawsuits. 
 
-With fines from automated cameras continuing to climb and lawmakers openly challenging whether the system improves safety, the future of traffic enforcement in Washington looks less certain than it has in years. For now, though, the cameras remain a central part of the District’s approach to dangerous driving. They continue to issue millions of dollars in tickets to residents and commuters, serve as a major source of city revenue and sit at the center of a political fight over whether they are making Washington’s streets safer or simply making driving in the city more expensive.
+The fight over automated enforcement is not just about traffic safety, it is also about money, accountability and the city’s ability to punish repeat offenders, especially drivers from outside the District who have long ignored camera tickets. 
+
+As Congress moves to shut the system down and D.C. leaders move to defend it, the debate has widened into whether automated cameras are a necessary public-safety tool or an increasingly aggressive enforcement system the city has come to depend on. For now, though, the cameras remain a central part of the District’s approach to dangerous driving. They continue issuing millions of dollars in tickets to residents and commuters annually, serve as a major source of city revenue and sit at the center of a political fight over whether they are making Washington’s streets safer or simply making driving in the city more expensive.
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1IZrQVGpsLtQfLlaezZ5hVQ9SXhwcGtUWUso87hh4jFc/edit?usp=sharing)
-Slides
+[Slides](https://docs.google.com/presentation/d/1Jpob5b7j-3JICve-7ifwl3EDhCgt4kPyK3k26I3lnRU/edit?usp=sharing)
