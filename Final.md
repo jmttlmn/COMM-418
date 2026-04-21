@@ -44,10 +44,10 @@ In March, the House Oversight Committee advanced [H.R. 5525](https://www.congres
 
 Many in D.C. leadership are fighting back, including Mayor Muriel Bowser. 
 
-“Automated traffic enforcement has been a critical tool for keeping neighborhoods safe,” Bowser said in a March [statement](https://mayor.dc.gov/release/mayor-bowser-urges-congress-reject-proposal-would-make-dc-streets-less-safe?) opposing the bill. She called it “an effective and proven means of deterring reckless driving” and said its purpose is “to save lives.”
+“Automated traffic enforcement has been a critical tool for keeping neighborhoods safe,” Bowser said in a March [statement](https://mayor.dc.gov/release/mayor-bowser-urges-congress-reject-proposal-would-make-dc-streets-less-safe) opposing the bill. She called it “an effective and proven means of deterring reckless driving” and said its purpose is “to save lives.”
 The fight also comes as the District tries to answer one of the most persistent criticisms of camera enforcement: many drivers do not pay. 
 
-According to the D.C. attorney general’s [office](https://oag.dc.gov/release/attorney-general-schwalb-sues-three-maryland?), the first lawsuits filed under the STEER Act targeted three Maryland drivers accused of owing the city more than $90,000 in unpaid speeding, red-light, and other dangerous-driving fines. The act hopes to help alleviate out-of-town fair dodgers, making it easier for the city to file lawsuits. 
+According to the D.C. attorney general’s [office](https://oag.dc.gov/release/attorney-general-schwalb-sues-three-maryland), the first lawsuits filed under the STEER Act targeted three Maryland drivers accused of owing the city more than $90,000 in unpaid speeding, red-light, and other dangerous-driving fines. The act hopes to help alleviate out-of-town fair dodgers, making it easier for the city to file lawsuits. 
 
 With fines from automated cameras continuing to climb and lawmakers openly challenging whether the system improves safety, the future of traffic enforcement in Washington looks less certain than it has in years. For now, though, the cameras remain a central part of the District’s approach to dangerous driving. They continue to issue millions of dollars in tickets to residents and commuters, serve as a major source of city revenue and sit at the center of a political fight over whether they are making Washington’s streets safer or simply making driving in the city more expensive.
 
